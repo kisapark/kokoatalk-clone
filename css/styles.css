@@ -1,0 +1,32 @@
+@import "reset.css";
+@import "variables.css";
+/*Components*/
+@import "components/status-bar.css";
+@import "screens/login.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/friends.css";
+@import "components/user-component.css";
+@import "components/badge.css";
+@import "components/find.css";
+@import "components/more.css";
+@import "components/icon-row.css";
+@import "components/alt-screen.css";
+@import "components/settings.css";
+@import "components/chat.css";
+@import "components/no-mobile.css";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.main-screen {
+    padding: 0px var(--horizontal-space);
+    margin-top: 0px;
+}
+
+.main-screen-friends {
+    padding: 0px;
+}

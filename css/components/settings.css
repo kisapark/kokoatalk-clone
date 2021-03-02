@@ -1,0 +1,32 @@
+.setting__setting {
+    padding: 25px 0px;
+    font-size: 20px;
+    border-bottom: var(--screen-bar);
+    display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.setting__setting:hover {
+    transform: scale(1.05);
+    transition: scale .5s;
+}
+
+
+.setting__setting i {
+    margin-right: 20px;
+font-size: 20px;
+
+}
+
+.setting__setting_column:last-child {
+    color: var(--title-color);
+    display: flex;
+    align-items: center;
+
+}
+
+.setting__setting_column {
+    display: flex;
+    align-items: center;
+}
