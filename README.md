@@ -1,1 +1,2 @@
-# Kokoa Clone 2021 Update.
+# kokoatalk-clone
+KOKOA CLONE 2021 UPDATE
